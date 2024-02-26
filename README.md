@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Sergio González</h1>
-<h3 align="center">Desarrollador jr. de Apliaciones Web</h3>
+<h3 align="center">Desarrollador junior de Apliaciones Web</h3>
 
 - 🌱 Actualmente aprendiendo **English 😉 and AdonisJS**.
 
